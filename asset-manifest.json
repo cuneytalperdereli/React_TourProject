@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cuneytalperdereli/React_TourProject/static/css/main.64892218.css",
+    "main.js": "/cuneytalperdereli/React_TourProject/static/js/main.39b27b8e.js",
+    "index.html": "/cuneytalperdereli/React_TourProject/index.html",
+    "main.64892218.css.map": "/cuneytalperdereli/React_TourProject/static/css/main.64892218.css.map",
+    "main.39b27b8e.js.map": "/cuneytalperdereli/React_TourProject/static/js/main.39b27b8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64892218.css",
+    "static/js/main.39b27b8e.js"
+  ]
+}
